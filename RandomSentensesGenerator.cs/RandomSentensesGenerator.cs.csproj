@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\vasil\source\repos\RandomSentensesGenerator1\RandomSentencesGenerator.cs" Link="RandomSentencesGenerator.cs" />
+    <Compile Include="C:\Users\vasil\source\repos\RandomSentensesGenerator.cs\RandomSentencesGenerator.cs" Link="RandomSentencesGenerator.cs" />
   </ItemGroup>
 
 </Project>
